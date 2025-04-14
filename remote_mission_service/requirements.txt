@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 -f ../prebuilt
+=======
+-f ../../../prebuilt
+>>>>>>> b7829b0309b28c382d7fd6832d63bebb3992ce1a
 bosdyn-client >= 3.1
 bosdyn-mission >= 3.1
